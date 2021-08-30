@@ -3,4 +3,4 @@ BELAJAR RESOLUSI
 - membuat platform website Portofolio
 - membuat forum website Forum Team
 - membuat sistem Informasi Akuntansi
-- membuat webste medsos
+- membuat cms sederhana
