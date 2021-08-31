@@ -4,8 +4,9 @@ Rencana Konten saya kedepan
   *Belajar CRUD
 - Belajar Laravel
 - Belajar Restfull API dengan framework php
-  ^ REST FULL codigniter
-  ^ REST FULL laravel
+  ^REST FULL codigniter
+  ^REST FULL laravel
+- Angular js
 - Belajar Typescript JS
 - Belajar Vue js
 -Pyton
