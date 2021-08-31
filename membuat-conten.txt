@@ -7,4 +7,5 @@ Rencana Konten saya kedepan
   ^ REST FULL codigniter
   ^ REST FULL laravel
 - Belajar Typescript JS
+- Belajar Vue js
 -Pyton
