@@ -1,4 +1,6 @@
 Rencana Konten saya kedepan 
 - Belajar Codigniter
+  *Belajar Dasar
+  *Belajar CRUD
 - Belajar Laravel
 - Belajar Restfull API dengan framework php
