@@ -4,3 +4,4 @@ Rencana Konten saya kedepan
   *Belajar CRUD
 - Belajar Laravel
 - Belajar Restfull API dengan framework php
+- Belajar Typescript JS
